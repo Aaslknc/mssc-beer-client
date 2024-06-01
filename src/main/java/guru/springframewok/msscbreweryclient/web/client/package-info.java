@@ -1,0 +1,1 @@
+package guru.springframewok.msscbreweryclient.web.client;
